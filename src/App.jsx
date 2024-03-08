@@ -1,7 +1,8 @@
 import Questions from "./components/Questions";
 
 const App = () => {
-  const githubRepoLink = "https://github.com/seu-usuario/seu-repositorio";
+  const githubRepoLink =
+    "https://github.com/hwgo1/teste-tecnico-TargetSistemas";
 
   return (
     <div className="w-full h-screen">
@@ -10,7 +11,7 @@ const App = () => {
           <div className="flex flex-row items-center gap-2">
             <h1 className="text-2xl font-bold text-white">Olá!</h1>
             <img
-              src="./src/assets/waving-hand-sign-907.png"
+              src="src/assets/waving-hand-sign-907.png"
               alt="Emote mão acenando"
               className="w-12"
             />
