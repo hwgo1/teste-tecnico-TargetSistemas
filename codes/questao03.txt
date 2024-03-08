@@ -1,0 +1,31 @@
+Analisando a cada sequência individualmente temos:
+
+- a) 1, 3, 5, 7, ___
+
+A lógica aqui é adicionar 2 ao número anterior.
+Próximo elemento: 7 + 2 = 9
+
+- b) 2, 4, 8, 16, 32, 64, ___
+
+Dessa vez, cada termo é obtido multiplicando o termo anterior por 2.
+Próximo elemento: 64 * 2 = 128
+
+- c) 0, 1, 4, 9, 16, 25, 36, ___
+
+Aqui, cada termo é o quadrado do seu índice.
+Próximo elemento: 7^2 = 49
+
+- d) 4, 16, 36, 64, ___
+
+Cada termo é o quadrado do número ímpar correspondente.
+Próximo elemento: 8^2 = 64
+
+- e) 1, 1, 2, 3, 5, 8, ___
+
+Cada termo é a soma dos dois termos anteriores (sequência de Fibonacci).
+Próximo elemento: 5 + 8 = 13
+
+- f) 2, 10, 12, 16, 17, 18, 19, ___
+
+Parece ser uma sequência em que os números aumentam de maneira irregular.
+Próximo elemento: 20

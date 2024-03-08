@@ -1,0 +1,13 @@
+O código em questão é um loop, onde a variável K é incrementada (K = K + 1) e adicionada a variável SOMA (SOMA = SOMA + K) durante 13 iterações. Durante as iterações temos:
+
+- Primeira iteração (K = 1):
+    SOMA = 0 + 1 = 1
+
+- Segunda iteração (K = 2):
+    SOMA = 1 + 2 = 3
+
+- Terceira iteração (K = 3):
+    SOMA = 3 + 3 = 6
+
+E assim por diante...
+Ao fim de todas iterações, temos SOMA = 91 + 13, porém como a condição do nosso loop se torna falsa, já que K não é menor que o INDICE, a soma não ocorre, fazendo com que SOMA = 91
